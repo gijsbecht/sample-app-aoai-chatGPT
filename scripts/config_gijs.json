@@ -1,0 +1,14 @@
+[
+    {
+        "data_path": "C:\\Users\\gbecht\\OneDrive - Brink\\Documenten\\testfiles",
+        "location": "swedencentral", 
+        "subscription_id": "1e65ec0a-fc99-42e0-a0b7-9969d3ce9c8f",
+        "resource_group": "rg-contoso-chat-dev-swecen",
+        "search_service_name": "contoso-chat-dev-swecen-search-contoso7rue5nygzk4ym",
+        "index_name": "test-3-index",
+        "chunk_size": 1024,
+        "token_overlap": 128,
+        "semantic_config_name": "default",
+        "language": "nl"
+    }
+]
